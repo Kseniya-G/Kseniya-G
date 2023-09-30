@@ -2,8 +2,8 @@
 
 [![Email Badge](https://img.shields.io/badge/-gormashkseniya@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gormashkseniya@gmail.com)](mailto:gormashkseniya@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-Kseniya%20Gormash-0072b1?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kseniya-gormash-316993b0)](https://www.linkedin.com/in/kseniya-gormash-316993b0)
-[![Github Badge](https://img.shields.io/badge/-Kseniya%20Gormash-grey?style=flat&logo=github&logoColor=white&link=https://github.com/kseniya-gormash/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
-)](https://www.github.com/kseniya-gormash/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)
+[![Github Badge](https://img.shields.io/badge/-Kseniya%20Gormash-grey?style=flat&logo=github&logoColor=white&link=https://github.com/kseniya-gormash/
+)](https://www.github.com/kseniya-gormash/)
 
 
 👨‍🎓 About Me 👨‍🎓:
