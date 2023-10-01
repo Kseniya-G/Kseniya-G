@@ -35,7 +35,7 @@
 
 
 📂 You can check out my projects here:
--  [Portfolio]([Your_Portfolio_Link](https://github.com/Kseniya-G/TripleTen_Projects.git))
+-  [Portfolio]([(https://github.com/Kseniya-G/TripleTen_Projects.git)])
 
 
 📚 Feel free to reach out for exciting data projects and collaborations! Let's turn data into actionable insights together. 📊
