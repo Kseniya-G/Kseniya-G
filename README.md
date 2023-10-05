@@ -1,7 +1,7 @@
 ## Hey there! 👋 I'm Kseniya, an Entry-Level Data Analyst.
 
 [![Email Badge](https://img.shields.io/badge/-gormashkseniya@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gormashkseniya@gmail.com)](mailto:gormashkseniya@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-Kseniya%20Gormash-0072b1?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kseniya-gormash-316993b0)](https://www.linkedin.com/in/kseniya-gormash-316993b0)
+[![LinkedIn Badge](https://img.shields.io/badge/-Kseniya%20Gormash-0072b1?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kseniya-gormash-316993b0)](https://www.linkedin.com/in/kseniya-gormash)
 [![Github Badge](https://img.shields.io/badge/-Kseniya%20Gormash-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Kseniya-G
 )](https://www.github.com/Kseniya-G)
 
