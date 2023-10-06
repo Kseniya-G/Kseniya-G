@@ -36,6 +36,7 @@
 
 📂 You can check out my projects here:
 -  [Portfolio](https://github.com/Kseniya-G/TripleTen_Projects.git)
+-  [Tableau Portfolio](https://public.tableau.com/app/profile/kseniya.gormash/vizzes)
 
 
 
