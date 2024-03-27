@@ -27,7 +27,7 @@
 - 📊 Data Analysis
 - 🐍 Python
 - 💼 SQL
-- 📈 Tableau
+- 📈 Tableau, Power BI
 - 📑 Spreadsheets
 - 📊 Data Visualization
 - 🧹 Data Cleaning and Preprocessing
