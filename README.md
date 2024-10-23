@@ -8,9 +8,13 @@
 
 
 👨‍🎓 About Me 👨‍🎓:
+
 🚀 I'm a results-driven data analyst with 3+ years of hands-on experience in optimizing operations and ensuring data quality, combined with a passion for leveraging data insights to drive business decisions.
+
 🎓 I graduated from the TripleTen Data Analytics Bootcamp, completing over 700 hours of training and working on 15 real-world projects.
+
 💻 My skills span the full data pipeline, including data wrangling and cleaning, exploratory data analysis, data visualization using Tableau and Power BI, and machine learning techniques in Python.
+
 🧠 I'm a fast learner, always ready to embrace new challenges and emerging technologies. I enjoy diving deep into data to uncover actionable insights, improve decision-making, and deliver impactful results.
 
 
